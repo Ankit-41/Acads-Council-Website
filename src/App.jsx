@@ -30,12 +30,7 @@ function App() {
 <Route path='/research' Component={Research} ></Route>
 <Route path='/intergroups' Component={InterestGroups}></Route>
 </Routes>
-</>
-
-
-
-      
-      
+</>  
     </div>
   );
 }
