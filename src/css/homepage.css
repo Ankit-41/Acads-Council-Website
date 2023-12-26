@@ -33,3 +33,45 @@
     font-size: 4.5rem;
     font-weight: 500;
 }
+.goals-title{
+    top: 0;
+    position: relative;
+    font-family:'Mulish', sans-serif;
+    padding: 8px;
+    text-align: left;
+}
+.goals-h{
+    font-size: 48px;
+    font-weight: 600;
+}
+.goals-title:after {
+    position: absolute;
+    content: '';
+    width: 125px;
+    height: 4px;
+    left: 1%;
+    bottom: 0;
+    background: #25ae88;
+}
+.home-content{
+    position:absolute;
+    top:135vh;
+    width:80%;
+    left:10vw;
+    padding:10px;
+}
+.goals-content{
+    margin-top: 2%;
+    height:auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding:8px;
+}
+.goals-col{
+    flex:0 0 25%;
+    padding:22px;
+}
+.goals-col>p{
+    font-size: 14px;
+    line-height: 2;
+}
