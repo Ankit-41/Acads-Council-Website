@@ -1,4 +1,5 @@
 import React from "react";
+import PersonImage from "../assets/person-image.jpg";
 
 export default function Contacts() {
   return (
@@ -10,6 +11,7 @@ export default function Contacts() {
         <div className="row">
           <div className="col-md-3 feature"></div>
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Sanchit Chaba</h4>
             <p>
               General Secretary
@@ -20,6 +22,7 @@ export default function Contacts() {
             <p>989777xxxx</p>
           </div>
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Tushar Tembhurne</h4>
             <p>
               Deputy General Secretary
@@ -35,6 +38,7 @@ export default function Contacts() {
         <br />
         <div className="row">
           <div className="col-md-4 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Harshit Singhai</h4>
             <p>
               Institute Secretary
@@ -46,6 +50,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-4 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Atirek Aryan</h4>
             <p>
               UG Institute Secretary
@@ -56,6 +61,7 @@ export default function Contacts() {
             <p>8521251414</p>
           </div>
           <div className="col-md-4 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Toushif Alam</h4>
             <p>
               PG Institute Secretary
@@ -76,6 +82,7 @@ export default function Contacts() {
         <br />
         <div className="row">
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Lalit kumar</h4>
             <p>
               PG Manager
@@ -87,6 +94,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Shubham Patil</h4>
             <p>
               PG Manager
@@ -98,6 +106,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Tushar Agarwal</h4>
             <p>
               PG Manager
@@ -109,6 +118,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Ashutosh Jha</h4>
             <p>
               PG Manager
@@ -125,6 +135,7 @@ export default function Contacts() {
 
         <div className="row">
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Utkarsh gupta</h4>
             <p>
               UG Manager
@@ -136,6 +147,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Aviral Upadhyay</h4>
             <p>
               UG Manager
@@ -147,6 +159,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Saumya Gupta</h4>
             <p>
               UG Manager
@@ -158,6 +171,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Arpit Anand</h4>
             <p>
               UG Manager
@@ -175,6 +189,7 @@ export default function Contacts() {
         <br />
         <div className="row">
           <div className="col-md-4 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Aashish Shah</h4>
             <p>
               PG Manager
@@ -186,6 +201,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-4 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Abhirami A M</h4>
             <p>
               PG Manager
@@ -197,6 +213,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-4 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Soumyadeep Sur</h4>
             <p>
               PG Manager
@@ -212,6 +229,7 @@ export default function Contacts() {
         <br />
         <div className="row">
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Jai Verma</h4>
             <p>
               UG Manager
@@ -223,6 +241,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Priyanshu Tiwari</h4>
             <p>
               UG Manager
@@ -234,6 +253,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Ananya Bist</h4>
             <p>
               UG Manager
@@ -244,6 +264,7 @@ export default function Contacts() {
             <p>6392838486</p>
           </div>
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Drashti Modi</h4>
             <p>
               UG Manager
@@ -262,6 +283,7 @@ export default function Contacts() {
 
         <div className="row">
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Aqdas Alam</h4>
             <p>
               PG Manager
@@ -273,6 +295,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Omveer Singh</h4>
             <p>
               PG Manager
@@ -284,6 +307,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Soumya Dubey</h4>
             <p>
               PG Manager
@@ -294,6 +318,7 @@ export default function Contacts() {
             <p>9179232425</p>
           </div>
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Subrata Das</h4>
             <p>
               PG Manager
@@ -309,6 +334,7 @@ export default function Contacts() {
         <div className="row">
           <div className="col-md-3 feature"></div>
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Medha Srivastava</h4>
             <p>
               Manager
@@ -320,6 +346,7 @@ export default function Contacts() {
           </div>
 
           <div className="col-md-3 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Siddharth Maurya</h4>
             <p>
               Manager
@@ -339,6 +366,7 @@ export default function Contacts() {
         <div className="row">
           <div className="col-md-4 feature"></div>
           <div className="col-md-4 feature">
+            <img src={PersonImage} alt="image" height="210" width="160" />
             <h4>Saksham Agarwal</h4>
             <p>
               UG Manager
